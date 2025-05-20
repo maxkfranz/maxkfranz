@@ -2,7 +2,7 @@
 
 I’m a lead product designer and developer focussed on internal tools, developer platforms, and high-performance systems. I specialise in UX for both technical and non-technical users, scalable workflows, and API/interface design.
 
-## Featured Work (Live Portfolio)
+## Featured work (live portfolio)
 
 - [**Cytoscape.js**](https://js.cytoscape.org)  
   A high-performance graph theory library powering advanced data visualisation for developers. Designed for clarity, stability, and scale; with 4M+ installs/month and adoption by Google, Meta, Microsoft, and leading research institutions.
